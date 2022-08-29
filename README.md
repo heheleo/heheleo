@@ -17,7 +17,6 @@ My name is Leo, also known Le0 in the technology world. Nice to meet you! 👋
      <br>
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
         <br> <br>
         <samp> 💿 Tools </samp>
         <br>
@@ -39,8 +38,9 @@ I am currently learning some [**go**](https://go.dev) and [**ruby**](https://www
 
 ### 🎵 <samp>Notes About Me</samp>
 
-I am not a professional developer - and I know I have alot to learn. I accept most of the things that you want me to do, but only if I have learnt something from it :smile:
+I am not a professional developer - and I know I have alot to learn. I accept most of the things that customers want me to do, but only if I learn something from it :smile:
+Check out my [portfolio](https://leo0.xyz)!
 
 ### 📫 <samp>Contact Me!</samp>
 
-My Discord is `leo.#2022` and i'd love contributing (neat, and maintainable) code to your respository!
+My Discord is `leo!#2022` and i'd love contributing (neat, and maintainable) code to your respository!
