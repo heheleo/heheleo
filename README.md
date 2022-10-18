@@ -3,7 +3,7 @@
 
 ### 🌟 <samp>About Me</samp>
 
-My name is Leo, also known Le0 in the technology world. Nice to meet you! 👋
+My name is Leo. Nice to meet you! 👋
 <br>
 
 <div align="center"><samp>Here are some tools/languages I have worked with in the past!</b></samp></div>
@@ -21,7 +21,6 @@ My name is Leo, also known Le0 in the technology world. Nice to meet you! 👋
         <samp> 💿 Tools </samp>
         <br>
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-        <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
         <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
         <br>
         <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -34,13 +33,9 @@ My name is Leo, also known Le0 in the technology world. Nice to meet you! 👋
 
 ### ⚡ <samp>What Im Doing</samp>
 
-I am currently learning some [**go**](https://go.dev) and [**ruby**](https://www.ruby-lang.org/en/)!
+I am currently focusing on my studies.
 
-### 🎵 <samp>Notes About Me</samp>
-
-I am not a professional developer - and I know I have alot to learn. I accept most of the things that customers want me to do, but only if I learn something from it :smile:
-Check out my [portfolio](https://leo0.xyz)!
 
 ### 📫 <samp>Contact Me!</samp>
 
-My Discord is `leo!#2022` and i'd love contributing (neat, and maintainable) code to your respository!
+My Discord is `le <3#2022` and i'd love to contributing code to your respository~
