@@ -7,5 +7,5 @@
    I fiddle occasionally with <b>Python</b>, <b>TypeScript</b> and <b>Java</b>. <br/>
    I love learning new things, and everything related to open source. <br/> <br/>
          
-   My Discord is `leo!#2023` and i'd love to collaborate.
+   My Discord is `not.studying` and i'd love to collaborate.
 </div>
