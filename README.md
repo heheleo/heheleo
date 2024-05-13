@@ -6,6 +6,8 @@
    Primarily <b>backend development</b>.<br/>
    Nowadays, I often use <b>TypeScript</b> for everything.<br/>
    <br/>
-   <img src="https://github.com/heheleo/heheleo/blob/master/stack.png?raw=true"/> <br/>
+   
+   ![stack](https://github.com/heheleo/heheleo/assets/72186159/2eefe054-7137-4fe8-bda5-01db5d126710)
+
    <br/>
 </div>
