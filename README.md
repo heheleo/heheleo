@@ -1,10 +1,11 @@
 <h3 align="center">
-   <samp><b>Hi, I'm Leo</b></samp>
+   Hi, I'm Leo
 </h3>
 
 <div align="center">
-   I mainly fiddle with <b>TypeScript</b>, and explore <b>web technologies</b>. <br/>
-   I love learning new things, and everything related to open source. <br/> <br/>
-         
-   My Discord is `not.studying` and i'd love to collaborate on any idea.
+   Primarily <b>backend development</b>.<br/>
+   Nowadays, I often use <b>TypeScript</b> for everything.<br/>
+   <br/>
+   <img src="https://github.com/heheleo/heheleo/blob/master/stack.png?raw=true"/> <br/>
+   <br/>
 </div>
