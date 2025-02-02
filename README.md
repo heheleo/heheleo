@@ -4,10 +4,11 @@
 
 <div align="center">
    Primarily <b>backend development</b>.<br/>
-   Nowadays, I often use <b>TypeScript</b> for everything.<br/>
+   Student, likes to learn and collaborate.
+   <br/>
    <br/>
    
-   ![stack](https://github.com/heheleo/heheleo/assets/72186159/2eefe054-7137-4fe8-bda5-01db5d126710)
-
+   ![icons](https://github.com/user-attachments/assets/f899d727-6562-44b1-ba9d-ffe42c1ac363)
+   
    <br/>
 </div>
